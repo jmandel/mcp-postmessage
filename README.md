@@ -6,6 +6,8 @@ This is a reference implementation for a **proposed new transport** for the Mode
 
 📋 **[Read the Complete Protocol Specification](src/protocol/README.md)** for detailed technical documentation, message formats, and security requirements.
 
+** [Read the proposal on modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol/issues/1005)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
